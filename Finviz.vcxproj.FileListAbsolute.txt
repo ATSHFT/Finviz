@@ -1,0 +1,3 @@
+C:\Users\joshu\source\repos\Finviz\Debug\WebView2Loader.dll
+C:\Users\joshu\source\repos\Finviz\Debug\Finviz.exe
+C:\Users\joshu\source\repos\Finviz\Debug\Finviz.pdb
